@@ -85,7 +85,7 @@
 % load('wavelet_estimativa_5_outliers')
 % load('wavelet_estimativa_6_outliers')
 % 
-% wavelet_final_outliers=[wavelet_estimativa_4_outliers wavelet_estimativa_5_outliers wavelet_estimativa_6_outliers];
+% wavelet_final_outliers=[wavelet_estimativa_5_outliers wavelet_estimativa_5_outliers wavelet_estimativa_6_outliers];
 % mds_2_6_mahalo_outliers=mds_function(wavelet_final_outliers,2,'sstress','mahalanobis');
 % save("mds_2_6_mahalo_outliers.mat",'mds_2_6_mahalo_outliers')
 % clear all 
